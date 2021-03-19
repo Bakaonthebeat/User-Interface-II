@@ -22,9 +22,9 @@
 
 .container .item {
 
-    padding: 50px;
-    width: 20%;
-    justify-content: space-evenly;
+    padding: 5px;
+    width: 23%;
+    margin-top: 10px;
     line-height: 150px;
     color: white;
     font-weight: bold;
@@ -41,6 +41,5 @@
     list-style: none;
     flex-flow: row wrap;
     margin: 27px;
-    border: 6px solid rgba(42, 221, 7, 0.563);
     justify-content: space-evenly;
   }
