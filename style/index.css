@@ -41,7 +41,7 @@
     flex-wrap: wrap;
     list-style: none;
     flex-flow: row wrap;
-    margin: 30px;
-    border: 1px solid black;
+    margin: 27px;
+    border: 6px solid rgba(42, 221, 7, 0.563);
     justify-content: space-evenly;
   }
