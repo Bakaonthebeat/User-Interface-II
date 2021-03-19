@@ -41,9 +41,7 @@
     flex-wrap: wrap;
     list-style: none;
     flex-flow: row wrap;
-   
-
-    margin: 20px;
+    margin: 20%;
     border: 1px solid black;
     justify-content: space-evenly;
   }
