@@ -21,10 +21,10 @@
   }
 
 .container .item {
-    background: tomato;
+
     padding: 70px;
     width: 20%;
-    height: 150px;
+
     justify-content: space-evenly;
     line-height: 150px;
     color: white;
@@ -41,10 +41,9 @@
     flex-wrap: wrap;
     list-style: none;
     flex-flow: row wrap;
-    height: 50px;
-    width: 50px;
+   
+
     margin: 20px;
     border: 1px solid black;
-    background: lightgray;
     justify-content: space-between;
   }
