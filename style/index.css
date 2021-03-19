@@ -26,9 +26,18 @@
     margin: 20px;
     border: 1px solid black;
     background: lightgray;
-    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    
   }
   
   .container {
     display: flex;
+    flex-wrap: wrap;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    border: 1px solid black;
+    background: lightgray;
+    justify-content: space-evenly;
   }
