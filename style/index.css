@@ -36,9 +36,11 @@
   }
   
   .container {
-    padding: 50px;
+    padding: 75px;
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
+    flex-flow: row wrap;
     height: 50px;
     width: 50px;
     margin: 20px;
