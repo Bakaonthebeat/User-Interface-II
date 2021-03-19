@@ -22,9 +22,8 @@
 
 .container .item {
 
-    padding: 70px;
+    padding: 50px;
     width: 20%;
-
     justify-content: space-evenly;
     line-height: 150px;
     color: white;
