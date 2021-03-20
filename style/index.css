@@ -1,14 +1,11 @@
 /* The navbar container */
 .nav {
     overflow: hidden;
+    flex-direction: row;
     background-color: #333;
   }
   
-  /* Navbar links */
-  .nav{
-    display: flex;
-
-  } 
+ 
 .nava{
     list-style-type: none;
   margin: 0;
