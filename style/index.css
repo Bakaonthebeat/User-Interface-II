@@ -9,7 +9,18 @@
     display: inline
 
   } 
-  a.{
+.nava{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+
+
+
+  .a {
 
     float: left;
 
