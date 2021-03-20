@@ -6,7 +6,7 @@
   
   /* Navbar links */
   .nav{
-    display: inline
+    display: inline-flex;
 
   } 
 .nava{
