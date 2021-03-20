@@ -5,20 +5,24 @@
   }
   
   /* Navbar links */
-  .nav a {
+  .nav{
+    display: inline
+
+  } 
+  a.{
+
     float: left;
+
+  }
+
+  .a a{
     display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 8px;
+    background-color: #dddddd;
+
+
   }
   
-  /* Links - change color on hover */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
 
 .container .item {
 
